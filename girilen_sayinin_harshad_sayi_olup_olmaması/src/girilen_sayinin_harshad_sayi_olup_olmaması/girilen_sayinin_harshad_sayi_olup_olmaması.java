@@ -1,4 +1,4 @@
-package hafta_3_calisma_sorulari;
+package girilen_sayinin_harshad_sayi_olup_olmaması;
 
 public class girilen_sayinin_harshad_sayi_olup_olmaması 
 {
